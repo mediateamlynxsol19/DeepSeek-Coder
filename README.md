@@ -8,7 +8,7 @@
 <hr>
 
 # NeuroNest AI Software Security Platform
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI software security platform designed to help developers build safer, cleaner, and more reliable applications. It supports coding, debugging, testing, security review, DevOps automation, and technical research, making it useful for teams that want to improve software quality with AI-powered workflows.
 
